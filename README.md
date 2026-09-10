@@ -10,7 +10,7 @@ Görev, alışkanlık, hedef ve günlük takibini tek uygulamada birleştiren ü
 
 ## 🛠️ Kullandıklarım
 
-`TypeScript` `Node.js` `NestJS` `Prisma` `MySQL/MariaDB` `REST API` `JWT` `React Native (Expo)` `Linux` `Git`
+`TypeScript` `PHP` `Node.js` `NestJS` `Laravel` `Prisma` `MySQL/MariaDB` `REST API` `JWT` `React Native (Expo)` `Linux` `Git`
 
 ## 📫 İletişim
 
