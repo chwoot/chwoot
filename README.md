@@ -1,6 +1,6 @@
 # Selam, ben Ömer 👋
 
-İzmir'den backend ağırlıklı bir yazılım geliştiricisiyim. En iyi yaptığım şey: bir fikri alıp **mağazada yayında olan bir ürüne** dönüştürmek.
+İzmir'den backend ağırlıklı bir yazılım geliştiricisiyim. PHP, Laravel, Nodejs teknolojilerini kullanarak backend geliştirme konusunda tecrübe edindim
 
 ## 🚀 GünlükPlan
 
